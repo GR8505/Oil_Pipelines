@@ -1,6 +1,6 @@
 # Oil Pipelines Accidents Analysis
 ------------------------------
-## Data PreProcessing Steps
+## [Data PreProcessing Steps]()
 
 1) Renaming of Features for simplicity
 2) Using geopy to replace missing addresses
@@ -20,6 +20,6 @@ I did further investigations on these four addresses:
 3) YODER, WY
 4) LINDEN, NJ
 
-Made the following amendments
+Made the following [amendments]()
 
 ![]()
