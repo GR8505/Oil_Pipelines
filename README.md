@@ -12,4 +12,14 @@
 
 I realized that four locations were incorrect.
 - Three in China and one off the Iberian coast
+![](https://github.com/GR8505/Oil_Pipelines/blob/main/Images/Image1.png)
+
+I did further investigations on these four addresses:
+1) FROST, TX
+2) MOBILE, AL
+3) YODER, WY
+4) LINDEN, NJ
+
+Made the following amendments
+
 ![]()
