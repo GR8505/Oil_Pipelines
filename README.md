@@ -1,6 +1,6 @@
 # Oil Pipelines Accidents Analysis
 ------------------------------
-## [Data PreProcessing Steps]()
+## [Data PreProcessing Steps](https://github.com/GR8505/Oil_Pipelines/blob/main/pipeline_analysis.ipynb)
 
 1) Renaming of Features for simplicity
 2) Using geopy to replace missing addresses
