@@ -20,6 +20,6 @@ I did further investigations on these four addresses:
 3) YODER, WY
 4) LINDEN, NJ
 
-Made the following [amendments](https://github.com/GR8505/Oil_Pipelines/blob/main/Further_Preprocessing.ipynb)
+Made the following [amendments](https://github.com/GR8505/Oil_Pipelines/blob/main/Further_Preprocessing.ipynb).
 
-![]()
+![](https://github.com/GR8505/Oil_Pipelines/blob/main/Images/Image2.png)
