@@ -2,10 +2,10 @@
 console.log("working");
 
 // Create a map object with center and zoom level
-let map = L.map('mapid').setView([30, 30], 2);
+let map = L.map('mapid').setView([30, -90], 3);
 
 // Accessing map for oil pipeline json
-let oilAccidentData = "https://raw.githubusercontent.com/GR8505/Oil_Pipelines/main/Data/pipeline_2.json";
+let oilAccidentData = "https://raw.githubusercontent.com/GR8505/Oil_Pipelines/main/Data/pipeline3.json";
 
 // Grabbing our GeoJSON data.
 d3.json(oilAccidentData).then(function(data) {
