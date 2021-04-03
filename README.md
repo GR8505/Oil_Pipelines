@@ -23,3 +23,13 @@ I did further investigations on these four addresses:
 Made the following [amendments](https://github.com/GR8505/Oil_Pipelines/blob/main/Further_Preprocessing.ipynb).
 
 ![](https://github.com/GR8505/Oil_Pipelines/blob/main/Images/Image2.png)
+
+----------------------------------
+## Map with Time Slider
+
+Next steps...creating map with Time Slider
+Also, I want to create dropdown for the following features:
+1) Total Costs
+2) Liquid Recovery
+3) (Net) Loss of Barrels
+
